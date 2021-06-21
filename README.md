@@ -12,3 +12,5 @@ https://kylekilmartin371.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Kyle Kilmartin]
+
+#Run Buddy Inc. 
